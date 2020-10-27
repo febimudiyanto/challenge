@@ -15,4 +15,9 @@
  
  
 5. complex2polar.py
-challenge: https://www.hackerrank.com/challenges/polar-coordinates/problem
+https://www.hackerrank.com/challenges/polar-coordinates/problem
+
+
+6. no-idea.py
+https://www.hackerrank.com/challenges/no-idea/problem
+
