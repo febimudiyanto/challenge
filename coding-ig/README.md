@@ -1,5 +1,5 @@
-##
-####Folder ini untuk menyimpan hasil codingan dari challenge untuk 5 bahasa, Python, C, Matlab, R, Bash
+## Coding Challenge
+#### Folder ini untuk menyimpan hasil codingan dari challenge untuk 5 bahasa, Python, C, Matlab, R, Bash
 
 
 follow Instagram @nekadcoding
