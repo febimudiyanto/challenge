@@ -21,3 +21,6 @@ https://www.hackerrank.com/challenges/polar-coordinates/problem
 6. no-idea.py
 https://www.hackerrank.com/challenges/no-idea/problem
 
+
+7. time-conversion
+https://www.hackerrank.com/challenges/time-conversion/problem
